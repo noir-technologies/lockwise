@@ -1,4 +1,4 @@
-![Project Logo](./banner.png)
+![Project Logo](./images/banner.png)
 
 # Lockwise
 
