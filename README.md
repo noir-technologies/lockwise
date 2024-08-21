@@ -82,7 +82,7 @@ Lockwise/
 -   IdeaBoard with CircuitPython
 -   MFRC522 RFID Reader
 -   Servo Motor
--   computer for facial recognition processing
+-   Computer for facial recognition processing
 
 ## Software Requirements
 
